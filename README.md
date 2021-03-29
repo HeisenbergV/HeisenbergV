@@ -14,4 +14,5 @@
 
 # 近期博客
 <!-- BLOG-POST-LIST:START -->
+- [Posts](/post/)
 <!-- BLOG-POST-LIST:END -->

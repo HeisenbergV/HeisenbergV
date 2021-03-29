@@ -6,5 +6,6 @@
   </samp>
 </p>
 
-### my blog
-https://heisenbergv.github.io
+<p align="center">
+my blog: https://heisenbergv.github.io
+</p>

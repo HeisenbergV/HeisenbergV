@@ -6,13 +6,13 @@
   </samp>
 </p>
 
-### Yoo, I'm heisenbug 👋
-- 🍻 Junior at 🇨🇳 
+### Yoo, I'm zJxin 👋
+- 🍻 In 🇨🇳 
 - ⚡ GO / C# / Lua
 - ✍️ [my blog](https://heisenbergv.github.io)
 
 
-# 近期博客
+# The recent blog
 <!-- BLOG-POST-LIST:START -->
 - [Posts](/post/)
 <!-- BLOG-POST-LIST:END -->

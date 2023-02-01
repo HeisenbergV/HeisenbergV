@@ -1,5 +1,5 @@
 <p align="center">
-: hello bug
+:  (〝▼皿▼)
   <br><br>
   <samp>
     <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
